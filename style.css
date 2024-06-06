@@ -1,5 +1,14 @@
+.{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{/* seletor de raiz para variaveis */
+    --cor-de-fundo:#4287f5
+}
+
 .cabecalho{
-    
+
 }
 
 .cabecalho_menu{
