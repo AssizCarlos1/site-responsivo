@@ -7,10 +7,6 @@
     --cor-de-fundo:#4287f5
 }
 
-.cabecalho{
-
-}
-
-.cabecalho_menu{
-
+body, html{
+    background: linear-gradient(150deg, #4287f5, #658bc9)
 }
