@@ -1,12 +1,7 @@
-.{
-    padding: 0px;
-    margin: 0px;
-}
-
 :root{
-    --cor-de-fundo:#4287f5
+    --cor-da-letra: rgba(222, 225, 33, 0.67)
 }
 
 body, html{
-    background: linear-gradient(150deg, #4287f5, #658bc9)
+    background: linear-gradient(150deg, rgb(2, 2, 90), rgb(16, 76, 241);
 }
